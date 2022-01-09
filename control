@@ -1,0 +1,9 @@
+Package: com.zachary7829.noytads
+Name: NoYTAds
+Author: zachary7829
+Description: No Ads in YouTube
+Depends: mobilesubstrate
+Maintainer: zachary7829
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
